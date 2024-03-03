@@ -8,6 +8,6 @@ Mainly works on Friday Night Funkin' modding.
 
  * [RTX Mod Database](https://github.com/Realm-Studios/RTX-Mod-Database)
 
- ------------------------
-More later or smth
+
+
  ------------------------
