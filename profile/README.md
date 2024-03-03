@@ -6,7 +6,6 @@ Mainly works on Friday Night Funkin' modding.
 
 ## Projects:
 
- * RTX Mod Database
-  - [RTX Database WIP](https://github.com/Realm-Studios/RTX-Mod-Database)
+ * [RTX Mod Database](https://github.com/Realm-Studios/RTX-Mod-Database)
 
  ------------------------
